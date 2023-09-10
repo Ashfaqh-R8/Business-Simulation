@@ -1,4 +1,5 @@
 # Business-Simulation
+# SimVenture's "Seed to Scale" activity is a valuable tool for anyone who's looking to learn about entrepreneurship and business skills in an experiential and immersive way. It allows participants to apply theoretical knowledge in a realistic business setting, making it an effective and engaging learning experience.
 ![image](https://github.com/Ashfaqh-R8/Business-Simulation/assets/139698404/60346779-42bc-47b0-b179-ea7a89bc90a7)
 
 ![image](https://github.com/Ashfaqh-R8/Business-Simulation/assets/139698404/b9b08b5e-b95f-4d85-b8b2-68f3fe14cb02)
