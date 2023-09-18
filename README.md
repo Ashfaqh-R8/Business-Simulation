@@ -10,3 +10,4 @@
 ![image](https://github.com/Ashfaqh-R8/Business-Simulation/assets/139698404/9484649e-2d64-489f-8037-b51b93f71dcb)
 ![image](https://github.com/Ashfaqh-R8/Business-Simulation/assets/139698404/14c99a59-6c83-4533-80d2-744c1d4427cd)
 ![image](https://github.com/Ashfaqh-R8/Business-Simulation/assets/139698404/a5416339-0cc5-474e-ab7c-c92033798af3)
+![image](https://github.com/Ashfaqh-R8/Business-Simulation/assets/139698404/0f172fe6-f5e1-4b3f-a574-6b6731afd27d)
